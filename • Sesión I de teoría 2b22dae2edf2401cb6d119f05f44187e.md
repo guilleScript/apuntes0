@@ -33,7 +33,7 @@ Video: [Computación](https://youtu.be/2j3kxsQrZU4)
 Video: [Algoritmos y funciones](https://youtu.be/MzVSHXMY3dg)
 
 <aside>
-💡 **Definición (Algoritmo):** Un algoritmo es una secuencia de pasos que transforma un valor o conjunto de valores, conocidos como entradas, en un valor o conjunto de valores, conocidos como salidas, de tal modo que éstas satisfagan un conjunto de relaciones *(características o condiciones que debe cumplir el algoritmo al buscar la solución para considerarse valida)* previamente especificadas. *(es una definición formal del análisis y diseño de las soluciones que vimos previamente).*
+💡 Definición (Algoritmo):Un algoritmo es una secuencia de pasos que transforma un valor o conjunto de valores, conocidos como entradas, en un valor o conjunto de valores, conocidos como salidas, de tal modo que éstas satisfagan un conjunto de relaciones *(características o condiciones que debe cumplir el algoritmo al buscar la solución para considerarse valida)* previamente especificadas. *(es una definición formal del análisis y diseño de las soluciones que vimos previamente).*
 
 </aside>
 
